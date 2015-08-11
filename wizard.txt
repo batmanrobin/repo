@@ -1,5 +1,5 @@
 name="AEON NOX ARKHAM...ONLY USE ON A FRESH INSTALL"
-url="https://copy.com/GgTAIqgjVsdUzQ8m/batman.zip?download=1"
+url="http://kodicustombuilds.com/xbmc/arkham.zip"
 img="http://kodicustombuilds.com/img/icon.png" 
 fanart="http://blank"
 description="KODI CUSTOM BUILDS"
