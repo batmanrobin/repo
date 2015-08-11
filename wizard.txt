@@ -1,0 +1,5 @@
+name="AEON NOX ARKHAM...ONLY USE ON A FRESH INSTALL"
+url="http://kodicustombuilds.com/xbmc/arkham.zip"
+img="http://kodicustombuilds.com/img/icon.png" 
+fanart="http://blank"
+description="KODI CUSTOM BUILDS"
